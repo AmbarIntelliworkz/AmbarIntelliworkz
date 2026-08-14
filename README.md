@@ -1,24 +1,53 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ambar%20Intelliworkz&fontSize=40&animation=fadeIn" />
-</p>
+# 👋 Hi, I'm Ambar
 
-<h2 align="center">👨‍💻 Developer</h2>
+### 💻 Developer | Building things with code
 
----
-
-### 🛠️ Tech Stack & Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Developer-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
-</p>
+I'm a developer who enjoys building useful projects, learning new technologies, and turning ideas into working solutions.
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AmbarIntelliworkz&show_icons=true&theme=tokyonight" alt="Ambar Stats" />
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmbarIntelliworkz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmbarIntelliworkz&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmbarIntelliworkz&theme=tokyonight&hide_border=true" height="170" />
 </p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmbarIntelliworkz&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Currently
+
+- 🔨 Working on personal and development projects
+- 🌱 Learning and improving my skills
+- 💡 Exploring new technologies
+- 🤝 Open to interesting projects and collaborations
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/AmbarIntelliworkz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
