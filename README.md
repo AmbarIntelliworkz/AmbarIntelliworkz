@@ -4,12 +4,8 @@
 
 ---
 
-### GitHub
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmbarIntelliworkz&theme=github-compact&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/AmbarIntelliworkz">View GitHub Profile →</a>
+  <a href="https://github.com/AmbarIntelliworkz">
+    <img src="https://img.shields.io/badge/Explore%20Our%20Projects-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
