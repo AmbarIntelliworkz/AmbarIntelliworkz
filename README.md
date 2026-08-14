@@ -6,11 +6,19 @@
 
 ---
 
+### 🛠️ Tech Stack & Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Developer-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+</p>
+
+---
+
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmbarIntelliworkz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AmbarIntelliworkz&show_icons=true&theme=tokyonight" alt="Ambar Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmbarIntelliworkz&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmbarIntelliworkz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
